@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo Frost
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning recent front end technology
+- 🌱 I’m currently learning recent Front end technology
 - 💞️ I’m looking to collaborate on Front end Comumnity
 
 <!---
